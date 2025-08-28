@@ -1,5 +1,3 @@
-## Irere Emmanuel
-
 I consider myself as a polyglot fullstack engineer that can do anything about
 web development, given enough time.
 
