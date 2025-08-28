@@ -7,4 +7,4 @@ More about me:
 
 - [Blog](https://www.irere.dev/)
 - [Twitter/X](https://x.com/codesdoes)
-- [Linkedin](https://www.linkedin.com/in/irere_emmanuel)
+- [Linkedin](https://www.linkedin.com/in/irere-emmanuel)
